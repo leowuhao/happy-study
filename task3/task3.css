@@ -1,0 +1,53 @@
+body{
+    background: #68cdd5;
+}
+#back{
+    float: left;
+}
+#out{
+    width: 100%;
+    height: 100%;
+}
+#in{
+    float: left;
+    width: 100%;
+    margin:15% 0;
+}
+p {
+    text-align:center;
+    font-family: sans-serif;
+    color: white;
+    font-size:200%;
+    margin-left: 25%;
+    margin-right: 25%;
+    line-height: 1.8em;
+}
+#logo{
+    width: 100%;
+    float: left;
+}
+#logo1{
+    margin-bottom: 0px;
+}
+#left{
+    margin-right: 10%;
+    vertical-align:bottom;
+}
+#right{
+    margin-left: 10%;
+    vertical-align:bottom;
+}
+.name{
+    width: 50%;
+    float: left;
+}
+#number1{
+    margin-top: 0px;
+    margin-right: 10%;
+    float: right;
+}
+#number2{
+    margin-top: 0px;
+    margin-left: 10%;
+    float: left;
+}

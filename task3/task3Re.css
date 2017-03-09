@@ -1,0 +1,39 @@
+body{
+    background-color: #68cdd5;
+    word-break: break-all;
+    color: white;
+}
+.back{
+    width:100%;
+    float: left;
+}
+.main{
+    width:100%;
+    padding-bottom: 5em;
+    float: left;
+}
+p{
+    width:60%;
+    text-align: center;
+    margin: 5em auto 0 auto;
+}
+.login{
+    width:100%;
+    margin: 0 auto 0 auto;
+}
+.left{
+    width: 50%;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+p.down{
+    margin:0 auto;
+}
+.right{
+    width: 50%;
+    float: right;
+    padding: 0;
+    margin: 0;
+
+}

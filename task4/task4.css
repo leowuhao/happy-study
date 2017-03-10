@@ -1,0 +1,61 @@
+body{
+    font-size: large;
+    color: yellow;
+    background-color: grey;
+    margin: 0;
+}
+.header{
+    position: relative;
+    width: 100%;
+    background-color: #5fc0cd;
+    height: 4em;
+}
+.register{
+    position: absolute;
+    padding: 1em;
+    top:0;
+    left: 0;
+}
+.close{
+    position: absolute;
+    padding: 1em;
+    top:0;
+    right: 0;
+}
+.words{
+    margin: 0 auto;
+    padding-top: 1em;
+    font-size: larger;
+}
+p{
+    margin-top:0;
+    text-align: center;
+    margin-bottom: 0;
+}
+.line1{
+    position: relative;
+    width: 100%;
+    height: 4em;
+    background-color: white;
+    margin-top: 0.5em;
+}
+.write{
+    position: absolute;
+    height: 72px;
+    border-top-width: 0;
+    padding-top: 0;
+    border-right-width: 0;
+    padding-bottom: 0;
+    border-bottom-width: 0;
+    font-size: larger;
+    outline: medium;
+    width: 80%;
+}
+.login{
+    position: relative;
+    width: 100%;
+    height: 4em;
+    background-color: #5fc0cd;
+    margin-top: 0.5em;
+}
+

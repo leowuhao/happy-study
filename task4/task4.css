@@ -1,7 +1,7 @@
 body{
     font-size: large;
-    color: yellow;
-    background-color: grey;
+    color: white;
+    background-color: #eff0f4;
     margin: 0;
 }
 .header{
@@ -13,13 +13,13 @@ body{
 .register{
     position: absolute;
     padding: 1em;
-    top:0;
+    top: 6px;;
     left: 0;
 }
 .close{
     position: absolute;
     padding: 1em;
-    top:0;
+    top: 6px;;
     right: 0;
 }
 .words{
@@ -48,7 +48,7 @@ p{
     padding-bottom: 0;
     border-bottom-width: 0;
     font-size: larger;
-    outline: medium;
+    outline: none;
     width: 80%;
 }
 .login{
@@ -57,5 +57,31 @@ p{
     height: 4em;
     background-color: #5fc0cd;
     margin-top: 0.5em;
+}
+.line2{
+    position: relative;
+    width: 100%;
+    height: 4em;
+    margin-top: 0.5em;
+}
+.forget{
+    position: absolute;
+    top: 0;
+    right: 1em;
+    color: #5fc0cd;
+    font-size:medium;
+}
+button{
+    background-color: #5fc0cd;
+    font-size: large;
+    border: none;
+    color: white;
+    width: 100%;
+    height: 72px;
+}
+.click{
+    margin: 0 auto;
+    padding-top: 0;
+    font-size: larger;
 }
 
